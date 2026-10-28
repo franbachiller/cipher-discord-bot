@@ -1,0 +1,36 @@
+{
+  "author": {
+    "name": "CS2 External Team",
+    "icon_url": "https://i.imgur.com/AfFp7pu.png"
+  },
+  "title": "Getting Started",
+  "description": "You can always find detailed instructions on our documentation website [here](https://example.com).\n\n**Requirements**\nCS2 External has certain [requirements](https://example.com/requirements) in order to run properly.\n\nWe highly recommend to follow these instructions first in order to assure smooth experience.\n\n• [Loader Installation Requirements](https://example.com/loader)\n• [System Requirements](https://example.com/system)\n• [Game Client Requirements](https://example.com/client)",
+  "color": "#FF6B6B",
+  "fields": [
+    {
+      "name": "First run",
+      "value": "Please follow [these steps](https://example.com/first-run) if you are running the software for the first time.",
+      "inline": false
+    },
+    {
+      "name": "Register an account",
+      "value": "To use the software you must create an account in the Loader first.\nPlease follow [these instructions](https://example.com/register).",
+      "inline": false
+    },
+    {
+      "name": "Renew subscription",
+      "value": "Please follow [these instructions](https://example.com/renew).",
+      "inline": false
+    },
+    {
+      "name": "Hint and Messagebox",
+      "value": "If you enable this option - the software will not inject until you close two messageboxes.\nYou may disable these messageboxes from appearing during launching. This will make start process smoother.\nTo do this just toggle off `Hint and Messagebox` option in the Loader before you start the game.",
+      "inline": false
+    }
+  ],
+  "footer": {
+    "text": "CS2 Team • 2024",
+    "icon_url": "https://i.imgur.com/AfFp7pu.png"
+  },
+  "timestamp": "now"
+}

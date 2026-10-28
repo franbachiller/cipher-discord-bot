@@ -1,0 +1,46 @@
+{
+  "author": {
+    "name": "CIPHER • Support Center",
+    "icon_url": "https://i.imgur.com/AfFp7pu.png"
+  },
+  "title": "🎫 Open a Support Ticket",
+  "description": "Need help with CIPHER? Our support team is here to assist you with technical issues, questions, or any concerns you may have.",
+  "color": "#FF6B6B",
+  "fields": [
+    {
+      "name": "🔧 Technical Support",
+      "value": "• Installation issues\n• Configuration problems\n• Performance optimization\n• Bug reports\n• Feature questions",
+      "inline": true
+    },
+    {
+      "name": "💬 General Support",
+      "value": "• Account questions\n• License inquiries\n• Usage guidance\n• Feature requests\n• General questions",
+      "inline": true
+    },
+    {
+      "name": "⏱️ Response Time",
+      "value": "Our support team typically responds within **1-2 hours** during business hours. For urgent issues, we're available 24/7.",
+      "inline": false
+    },
+    {
+      "name": "📋 Before opening a ticket",
+      "value": "• Check our FAQ and documentation\n• Make sure you have your license key ready\n• Describe your issue clearly\n• Include any error messages or screenshots",
+      "inline": false
+    },
+    {
+      "name": "🎯 How to get help?",
+      "value": "Click the **\"🎫 Open Ticket\"** button below to create a support ticket. You'll be able to choose the category that best fits your needs.",
+      "inline": false
+    }
+  ],
+  "footer": {
+    "text": "CIPHER Team • We're here to help you",
+    "icon_url": "https://i.imgur.com/AfFp7pu.png"
+  },
+  "timestamp": "now",
+  "button": {
+    "label": "🎫 Open Ticket",
+    "style": "PRIMARY",
+    "customId": "ticket_create"
+  }
+}

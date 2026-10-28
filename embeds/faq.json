@@ -1,0 +1,41 @@
+{
+  "author": {
+    "name": "CIPHER • Frequently Asked Questions",
+    "icon_url": "https://i.imgur.com/AfFp7pu.png"
+  },
+  "title": "❓ Frequently Asked Questions",
+  "description": "Everything you need to know about CIPHER — the most secure and undetectable CS2 external cheat suite. Read carefully to understand how our advanced protection keeps you safe.",
+  "color": "#FF6B6B",
+  "fields": [
+    {
+      "name": "🛡️ Is CIPHER safe from VAC?",
+      "value": "**Absolutely.** CIPHER uses advanced kernel-level protection that operates completely invisible to VAC. Our external architecture ensures maximum safety. We've been undetected since launch with zero bans reported.",
+      "inline": false
+    },
+    {
+      "name": "💻 What are the system requirements?",
+      "value": "• **OS:** Windows 10/11 x64\n• **CS2:** Latest version",
+      "inline": false
+    },
+    {
+      "name": "🔄 What happens after a CS2 update?",
+      "value": "After major CS2 patches, we update the software within **24-48 hours**. You'll receive a new loader with updated compatibility. Your license key remains the same — just download and run the new version.\n\n**Important:** Any downtime caused by CS2 updates will be compensated and added to your license duration.",
+      "inline": false
+    },
+    {
+      "name": "🛠️ Troubleshooting: Loader won't start",
+      "value": "• Run as **administrator** (required)\n• Disable **Secure Boot** in BIOS\n• Disable antivirus temporarily\n• Make sure you're on **real hardware** (no VMs)\n• Check if Windows Defender blocked the file\n• Restart your PC and try again",
+      "inline": false
+    },
+    {
+      "name": "💬 Need more help?",
+      "value": "Open a support ticket and our team will assist you. Please include:\n• Screenshot of any error\n• Windows version\n\nOur support team typically responds within 1-2 hours.",
+      "inline": false
+    }
+  ],
+  "footer": {
+    "text": "CIPHER Team • Undetected since 2024",
+    "icon_url": "https://i.imgur.com/AfFp7pu.png"
+  },
+  "timestamp": "now"
+}

@@ -1,0 +1,46 @@
+{
+  "author": {
+    "name": "CIPHER • License Store",
+    "icon_url": "https://i.imgur.com/AfFp7pu.png"
+  },
+  "title": "💳 Buy License",
+  "description": "Get your CIPHER license and access the most secure and undetectable CS2 cheat. Choose the plan that best fits your needs.",
+  "color": "#FF6B6B",
+  "fields": [
+    {
+      "name": "⚡ 1 Day - $5 USD",
+      "value": "• Full access for 24 hours\n• All features unlocked\n• Technical support included\n• Automatic updates",
+      "inline": true
+    },
+    {
+      "name": "🔥 30 Days - $15 USD",
+      "value": "• Full access for 30 days\n• All features unlocked\n• Priority technical support\n• Automatic updates\n• **Best value**",
+      "inline": true
+    },
+    {
+      "name": "💰 Accepted Payment Methods",
+      "value": "• 💳 Credit Card\n• 💳 Debit Card\n• 🅿️ PayPal\n• ₿ Cryptocurrency (BTC, ETH, USDT)",
+      "inline": false
+    },
+    {
+      "name": "📦 What's included in your license?",
+      "value": "✅ Instant access after payment\n✅ Activation key sent immediately\n✅ Complete installation guide\n✅ 24/7 technical support\n✅ Free updates during your subscription",
+      "inline": false
+    },
+    {
+      "name": "🛒 How to buy?",
+      "value": "Click the **\"💳 Buy License\"** button below to open a purchase ticket. A member of our team will assist you immediately to process your order.",
+      "inline": false
+    }
+  ],
+  "footer": {
+    "text": "CIPHER Team • Secure payments and instant processing",
+    "icon_url": "https://i.imgur.com/AfFp7pu.png"
+  },
+  "timestamp": "now",
+  "button": {
+    "label": "💳 Buy License",
+    "style": "PRIMARY",
+    "customId": "create_ticket_purchase"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "prefix": "!",
+  "logFile": "bot.log",
+  "logLevel": "info",
+  
+  "tickets": {
+    "maxTicketsPerUser": 3,
+    "staffRoles": [
+      "STAFF_ROLE_ID_1",
+      "STAFF_ROLE_ID_2"
+    ],
+    "categories": {
+      "soporte-tecnico": {
+        "name": "Soporte Técnico",
+        "discordCategoryId": "CATEGORY_ID_FOR_TECHNICAL_SUPPORT",
+        "staffRoles": [
+          "TECHNICAL_SUPPORT_ROLE_ID"
+        ],
+        "emoji": "🔧",
+        "description": "Problemas técnicos con el producto"
+      },
+      "ventas": {
+        "name": "Ventas",
+        "discordCategoryId": "CATEGORY_ID_FOR_SALES",
+        "staffRoles": [
+          "SALES_ROLE_ID"
+        ],
+        "emoji": "💰",
+        "description": "Consultas sobre compras y precios"
+      },
+      "reportes": {
+        "name": "Reportes",
+        "discordCategoryId": "CATEGORY_ID_FOR_REPORTS",
+        "staffRoles": [
+          "MODERATOR_ROLE_ID"
+        ],
+        "emoji": "⚠️",
+        "description": "Reportar problemas o usuarios"
+      },
+      "otros": {
+        "name": "Otros",
+        "discordCategoryId": "CATEGORY_ID_FOR_OTHER",
+        "staffRoles": [
+          "STAFF_ROLE_ID_1"
+        ],
+        "emoji": "📋",
+        "description": "Otras consultas generales"
+      }
+    },
+    "logChannelId": "LOG_CHANNEL_ID",
+    "notificationChannelId": "NOTIFICATION_CHANNEL_ID",
+    "transcriptChannelId": "TRANSCRIPT_CHANNEL_ID",
+    "closeDelay": 5,
+    "welcomeMessage": "¡Hola! Gracias por crear un ticket. El staff te responderá lo antes posible. Por favor, describe tu consulta de forma clara.",
+    "goodbyeMessage": "🔒 **Ticket Cerrado**\n\nEste ticket ha sido cerrado. El canal será eliminado en unos segundos.\nGracias por usar nuestro sistema de soporte.",
+    "autoClose": {
+      "enabled": true,
+      "inactivityTime": 60,
+      "graceTime": 10
+    },
+    "notifications": {
+      "enabled": true,
+      "unrespondedTime": 30
+    }
+  }
+}

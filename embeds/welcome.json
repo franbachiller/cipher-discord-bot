@@ -1,0 +1,33 @@
+{
+  "title": "🎮 Bienvenido a CS2 External",
+  "description": "Gracias por unirte a nuestro servidor. Aquí encontrarás todo lo que necesitas para empezar.",
+  "color": "#5865F2",
+  "thumbnail": "https://i.imgur.com/AfFp7pu.png",
+  "fields": [
+    {
+      "name": "📋 Reglas",
+      "value": "Lee las reglas en <#CHANNEL_ID> antes de comenzar.",
+      "inline": false
+    },
+    {
+      "name": "💰 Precios",
+      "value": "Consulta nuestros precios en <#CHANNEL_ID>",
+      "inline": true
+    },
+    {
+      "name": "🛒 Comprar",
+      "value": "Realiza tu compra en <#CHANNEL_ID>",
+      "inline": true
+    },
+    {
+      "name": "❓ Soporte",
+      "value": "¿Necesitas ayuda? Contacta al equipo de soporte.",
+      "inline": false
+    }
+  ],
+  "footer": {
+    "text": "CS2 External Team • 2024",
+    "icon_url": "https://i.imgur.com/AfFp7pu.png"
+  },
+  "timestamp": "now"
+}

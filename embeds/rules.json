@@ -1,0 +1,66 @@
+{
+  "author": {
+    "name": "CIPHER • Server Rules",
+    "icon_url": "https://i.imgur.com/AfFp7pu.png"
+  },
+  "title": "📋 Server Rules & Guidelines",
+  "description": "Welcome to CIPHER! Please read and follow these rules carefully to maintain a safe and respectful community. Violation of these rules may result in warnings, mutes, kicks, or permanent bans.\n\n**By staying in this server, you agree to comply with all rules listed below.**",
+  "color": "#FF6B6B",
+  "fields": [
+    {
+      "name": "🤝 Rule 1: Be Respectful",
+      "value": "• Treat all members with respect and kindness\n• No harassment, bullying, or personal attacks\n• Respect different opinions and perspectives\n• Keep conversations civil and constructive",
+      "inline": false
+    },
+    {
+      "name": "🚫 Rule 2: No Hate Speech or Discrimination",
+      "value": "• No racism, sexism, homophobia, or any form of discrimination\n• No slurs or offensive language targeting any group\n• No hate symbols or imagery\n• This includes jokes or \"ironic\" content",
+      "inline": false
+    },
+    {
+      "name": "💬 Rule 3: No Spam or Flooding",
+      "value": "• Do not spam messages, emojis, or reactions\n• No excessive caps lock or repeated characters\n• No mass mentions or ghost pings\n• Keep messages relevant to the channel topic",
+      "inline": false
+    },
+    {
+      "name": "🔞 Rule 4: Keep Content Appropriate",
+      "value": "• No NSFW content (images, links, or discussions)\n• No gore, violence, or disturbing content\n• No sexual or suggestive content\n• Keep profile pictures and usernames appropriate",
+      "inline": false
+    },
+    {
+      "name": "🔒 Rule 5: Protect Privacy",
+      "value": "• Do not share personal information (yours or others)\n• No doxxing or threats of any kind\n• Respect others' privacy and boundaries\n• Do not share private conversations publicly",
+      "inline": false
+    },
+    {
+      "name": "📢 Rule 6: No Advertising or Self-Promotion",
+      "value": "• No advertising other Discord servers without permission\n• No self-promotion or unsolicited DM advertising\n• No referral links or affiliate spam\n• Ask staff before sharing external content",
+      "inline": false
+    },
+    {
+      "name": "🎯 Rule 7: Use Channels Correctly",
+      "value": "• Read channel descriptions and use them appropriately\n• Keep discussions on-topic for each channel\n• Use voice channels respectfully (no mic spam)\n• Follow any specific channel rules posted",
+      "inline": false
+    },
+    {
+      "name": "👮 Rule 8: Respect Staff & Moderators",
+      "value": "• Follow staff instructions and decisions\n• Do not argue with staff in public channels\n• Do not ping staff unnecessarily\n• Use tickets or DMs for private matters",
+      "inline": false
+    },
+    {
+      "name": "⚠️ Rule 9: No Illegal Content or Activities",
+      "value": "• Do not share or discuss illegal activities\n• No piracy, hacking tutorials, or illegal downloads\n• No discussion of drugs or illegal substances\n• Follow Discord's Terms of Service and Community Guidelines",
+      "inline": false
+    },
+    {
+      "name": "🛡️ Rule 10: Report Issues",
+      "value": "• Report rule violations to staff immediately\n• Do not take matters into your own hands\n• Use the ticket system for serious issues\n• Help us keep the community safe and welcoming",
+      "inline": false
+    }
+  ],
+  "footer": {
+    "text": "CIPHER Team • Last Updated: February 2026",
+    "icon_url": "https://i.imgur.com/AfFp7pu.png"
+  },
+  "timestamp": "now"
+}

@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+
+# Configuration (contiene token sensible)
+config.json
+
+# Logs
+*.log
+logs/
+
+# Archivos de deployment
+*.tar.gz
+bot-update-*.tar.gz
+
+# Claves SSH (IMPORTANTE: nunca subir a git)
+*.pem
+*.key
+CipherAuth.pem
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Backups
+backups/
+*.backup
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+data/
